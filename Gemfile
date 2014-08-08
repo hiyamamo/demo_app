@@ -24,5 +24,9 @@ group :production do
   gem 'rails_12factor', '0.0.2'
 end
 
+<<<<<<< HEAD
 gem 'execjs'
 
+=======
+gem 'rb-readline'
+>>>>>>> 00cd50c540558644c74f407e767264284c41a868
